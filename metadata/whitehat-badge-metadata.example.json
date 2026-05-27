@@ -1,0 +1,27 @@
+{
+  "name": "Whitehat Badge #1",
+  "description": "NFT de reputación otorgado a un whitehat por reportar un finding válido en BugBountyShield.",
+  "image": "ipfs://bafybeigd55vk45nkme6baku6vli2n7txwwc52zvesfbywecxhrcovfr2ki",
+  "attributes": [
+    {
+      "trait_type": "Project",
+      "value": "BugBountyShield"
+    },
+    {
+      "trait_type": "Role",
+      "value": "Whitehat"
+    },
+    {
+      "trait_type": "Achievement",
+      "value": "Valid Finding"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "Vitalik Badge"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Sepolia"
+    }
+  ]
+}
