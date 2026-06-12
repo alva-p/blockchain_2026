@@ -1,0 +1,34 @@
+## Contratos
+
+FindingRegistry  0xf9eA2a86502Cf5dae889A7863BDB6541E5340Bc0
+https://sepolia.etherscan.io/address/0xf9eA2a86502Cf5dae889A7863BDB6541E5340Bc0#code
+
+WhitehatBadge  0x9A97534390b5254E4d2f50B720f879b948846C0D
+https://sepolia.etherscan.io/address/0x9A97534390b5254E4d2f50B720f879b948846C0D#code
+
+BountyEscrow  0x8822AA8B00cEF6A1AE4e55e5e8AAe72945a09004
+https://sepolia.etherscan.io/address/0x8822AA8B00cEF6A1AE4e55e5e8AAe72945a09004#code
+
+## Tx deploy
+
+FindingRegistry  0xb78b2835f59997ce85932d99fa113ea6f7cf5a07e1fd5d287d910a2f0ecd2b64
+https://sepolia.etherscan.io/tx/0xb78b2835f59997ce85932d99fa113ea6f7cf5a07e1fd5d287d910a2f0ecd2b64
+
+WhitehatBadge  0xb76a5a7f604512671683e9f4677466e5cb1865eaa93f8280605540cb5513a6c4
+https://sepolia.etherscan.io/tx/0xb76a5a7f604512671683e9f4677466e5cb1865eaa93f8280605540cb5513a6c4
+
+BountyEscrow  0x0e4bddc5e6bd9000b7497d54f8811834445c7c0baa4c662c755168c97117a2c4
+https://sepolia.etherscan.io/tx/0x0e4bddc5e6bd9000b7497d54f8811834445c7c0baa4c662c755168c97117a2c4
+
+## Tx configuración
+
+setEscrow https://sepolia.etherscan.io/tx/0x2ae349f7bbbe3d634a75957d9ade18afc1b59a0dfcc12858ff023617d04fcfcb
+setMinter https://sepolia.etherscan.io/tx/0xd9312a9e2025324612e3c98279e498492145566f5b576bfe8861a21d22e31ec5
+
+## Tx flujo
+
+createBounty (bounty ID 1)  0xed4fcd751a2cb05ec791d75d0ea9b19c8d3fbc23766aaaba3e3fcd95b30fdaf5
+https://sepolia.etherscan.io/tx/0xed4fcd751a2cb05ec791d75d0ea9b19c8d3fbc23766aaaba3e3fcd95b30fdaf5
+
+approveFinding cross-contract (finding ID 1, NFT ID 1)  0x67f28d783dee406cfd6d4d936fcbabb476f2a642d180c55a396e50ca1748878d
+https://sepolia.etherscan.io/tx/0x67f28d783dee406cfd6d4d936fcbabb476f2a642d180c55a396e50ca1748878d#internal
